@@ -65,7 +65,7 @@ Traffic and account creation show clear time-based patterns.
 
 ## 📊 Dashboard Preview
 
-📸 Executive Overview Dashboard *(screenshot coming soon)*
+📸 Executive Overview Dashboard *Marketing.png*
 
 *Additional dashboard pages and refinements are currently in progress.*
 
