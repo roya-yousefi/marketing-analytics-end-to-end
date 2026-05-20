@@ -2,7 +2,7 @@
 
 ## 📌 Overview
 
-This project analyzes a full marketing funnel — from website traffic to account creation, customer conversion, and product usage.
+This project analyzes a full marketing funnel from website traffic to account creation, customer conversion, and product usage.
 
 The goal is to evaluate marketing performance across different channels, countries, and subscription types, and extract actionable business insights using SQL, Python, and Power BI.
 
